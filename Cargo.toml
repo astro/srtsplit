@@ -1,0 +1,7 @@
+[package]
+name = "subsplit"
+version = "0.1.0"
+authors = ["Astro <astro@spaceboyz.net>"]
+
+[dependencies]
+subparse = "0.3.0"
